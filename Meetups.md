@@ -18,3 +18,4 @@ Feel free to submit pull requests or open issues to add or remove any meetups.
 | [GirlDevelopIt Buffalo](https://www.meetup.com/Girl-Develop-It-Buffalo/) | Varies | 9/15/18 | [@gdibuffalo](https://twitter.com/gdibuffalo) | |
 | [MSDevWNY (Microsoft)](https://www.meetup.com/MSDevWNY/) | Varies | 9/15/18 | | |
 | [PythonBuffalo](https://www.meetup.com/Python-Buffalo/) | Downtown | 9/15/18| | | |
+| [WNY iPhone Developers](https://www.meetup.com/WNYiPhoneDev/) | Buffalo Game Space, TriMain Center | 2/12/19 (second Tuesday of each month) | | | |
